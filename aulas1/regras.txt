@@ -1,0 +1,27 @@
+d ou i // numero inteiros em base decimal
+X // numeros inteiros em base hexadecimal
+f // numeros floats
+e // numeros com notação centifica
+c // caracteres alfanumericos (char)
+s // sequencias de caracteres (strings)
+.num // especifica quantos numeros pós virugla tera o float %.2f
+
+
+escape: 
+
+\a  - toca um bip, alarme sonoro padrão do sistema
+\b - backspace
+\n - quebra linha
+\t - tabulção horizontal (tab)
+\r - retorna ao inicio da linh
+\O - caracter nulo
+\v - tabulação vertical
+
+
+\\ - escapar \
+\' - escapar '
+\" - escapar "
+\? - escapar ?
+\123 - caracater relacionado ao código 123 em octal (ASCII)
+\X12 - caracater relacionado ao código 12 em hexadecimal (ASCII)
+%% - caracter %
